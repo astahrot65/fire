@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "prueba3-5cf67": {
+      "hosting": {
+        "fire": [
+          "prueba3-5cf67"
+        ]
+      }
+    }
+  }
+}
